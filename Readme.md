@@ -18,27 +18,16 @@
 <a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
 <a href="https://github.com/divyadavane"><img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
 <a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-05070B?style=for-the-badge&logo=readdotcv&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
 </p>
 <p>
-<a href="https://leetcode.com/u/Divya_Davane/"><img src="https://img.shields.io/badge/LeetCode-05070B?style=for-the-badge&logo=leetcode&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Codechef-05070B?style=for-the-badge&logo=codechef&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Hackerrank-05070B?style=for-the-badge&logo=hackerrank&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-05070B?style=for-the-badge&logo=x&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="https://instagram.com/divyacado"><img src="https://img.shields.io/badge/Instagram-05070B?style=for-the-badge&logo=instagram&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-05070B?style=for-the-badge&logo=medium&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kaggle-05070B?style=for-the-badge&logo=kaggle&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-</p>
-<p>
-<a href="#"><img src="https://img.shields.io/badge/Discord-05070B?style=for-the-badge&logo=discord&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="https://leetcode.com/u/Divya_Davane/"><img src="https://img.shields.io/badge/LeetCode-05070B?style=for-the-badge&logo=leetcode&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="https://instagram.com/divyacado"><img src="https://img.shields.io/badge/Instagram-05070B?style=for-the-badge&logo=instagram&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <table>
 <tr><td>
@@ -54,9 +43,7 @@
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## ⚡ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <table width="100%">
 <tr>
@@ -101,9 +88,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 🧭 Experience
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Experience&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <table>
 <tr>
@@ -138,9 +123,7 @@ Built 5+ Power BI dashboards, automated ETL workflows, and cut monthly reporting
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Featured%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <table>
 <tr>
@@ -202,9 +185,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Achievements&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
@@ -218,9 +199,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
@@ -241,9 +220,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 >
 > `<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg" width="100%"/>`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 🖥️ Currently Building
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Currently%20Building&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ```bash
 $ whoami
@@ -258,9 +235,7 @@ $ status --current
 $ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## ☕ Fun Facts
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Fun%20Facts&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
@@ -272,9 +247,7 @@ $ _
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
-
-## 📬 Let's Build Something Amazing Together
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header&text=Let's%20Connect&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
