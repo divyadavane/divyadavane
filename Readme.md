@@ -29,19 +29,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=About%20Me&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
 
+<div align="center">
 <table>
-<tr><td>
-
-- 🎓 Software engineering student — Artificial Intelligence & Data Science, CGPA **9.1/10**
-- 🧩 Building AI products, end to end
-- 💻 Love full stack development
-- 🤖 Love machine learning
-- 🌱 Love open source
-- 🚀 Building scalable software
-- 📚 Learning every day
-
-</td></tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🎓%20Education-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Software engineering student — AI & Data Science, CGPA 9.1/10</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🧩%20Focus-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Building AI products, end to end</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/💻%20Stack-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Love full stack development</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🤖%20Domain-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Love machine learning</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🌱%20Community-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Love open source</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/🚀%20Goal-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Building scalable software</b></td>
+  </tr>
+  <tr>
+    <td align="right"><img src="https://img.shields.io/badge/📚%20Mantra-05070B?style=for-the-badge&color=161B22"/></td>
+    <td><b>Learning every day</b></td>
+  </tr>
 </table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Tech%20Stack&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
 
