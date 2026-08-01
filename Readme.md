@@ -27,7 +27,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 👋 About Me
 
@@ -45,7 +45,7 @@
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## ⚡ Tech Stack
 
@@ -92,7 +92,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 🧭 Experience
 
@@ -129,7 +129,7 @@ Built 5+ Power BI dashboards, automated ETL workflows, and cut monthly reporting
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -193,7 +193,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 🏆 Achievements
 
@@ -209,7 +209,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 📊 GitHub Analytics
 
@@ -232,7 +232,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 >
 > `<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg" width="100%"/>`
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 🖥️ Currently Building
 
@@ -249,7 +249,7 @@ $ status --current
 $ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## ☕ Fun Facts
 
@@ -263,7 +263,7 @@ $ _
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
 ## 📬 Let's Build Something Amazing Together
 
