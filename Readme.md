@@ -27,7 +27,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=About%20Me&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 👋 About Me
 
 <div align="center">
 <table>
@@ -62,7 +62,7 @@
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Tech%20Stack&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## ⚡ Tech Stack
 
 <div align="center">
 <table>
@@ -109,7 +109,7 @@
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Experience&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 🧭 Experience
 
 <table>
 <tr>
@@ -144,7 +144,7 @@ Built 5+ Power BI dashboards, automated ETL workflows, and cut monthly reporting
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Featured%20Projects&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -206,7 +206,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Achievements&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 🏆 Achievements
 
 <div align="center">
 
@@ -220,7 +220,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=GitHub%20Analytics&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -241,7 +241,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 >
 > `<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg" width="100%"/>`
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Currently%20Building&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 🖥️ Currently Building
 
 ```bash
 $ whoami
@@ -256,7 +256,7 @@ $ status --current
 $ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Fun%20Facts&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## ☕ Fun Facts
 
 <div align="center">
 
@@ -268,7 +268,7 @@ $ _
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Let's%20Connect&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
+## 📬 Let's Build Something Amazing Together
 
 <div align="center">
 
