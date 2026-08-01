@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/divya-name-glitch.svg" width="100%" alt="Divya Davane"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=680&height=65&lines=Software+Engineer;Full+Stack+Developer;AI+Developer;Data+Analyst;ML+Engineer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=850&height=85&lines=Software+Engineer;Full+Stack+Developer;AI+Developer;Data+Analyst;ML+Engineer" alt="Typing SVG"/>
 
 </div>
 
