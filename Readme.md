@@ -18,11 +18,20 @@
 <a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
 <a href="https://github.com/divyadavane"><img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
 <a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-05070B?style=for-the-badge&logo=readdotcv&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
 <a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
 </p>
 <p>
 <a href="https://leetcode.com/u/Divya_Davane/"><img src="https://img.shields.io/badge/LeetCode-05070B?style=for-the-badge&logo=leetcode&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Codechef-05070B?style=for-the-badge&logo=codechef&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Hackerrank-05070B?style=for-the-badge&logo=hackerrank&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X-05070B?style=for-the-badge&logo=x&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
 <a href="https://instagram.com/divyacado"><img src="https://img.shields.io/badge/Instagram-05070B?style=for-the-badge&logo=instagram&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Medium-05070B?style=for-the-badge&logo=medium&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Kaggle-05070B?style=for-the-badge&logo=kaggle&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+</p>
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Discord-05070B?style=for-the-badge&logo=discord&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
 </p>
 
 </div>
