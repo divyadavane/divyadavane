@@ -64,9 +64,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Tech%20Stack&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td align="center" width="18%"><b>Languages</b></td>
+<td align="center"><b>Languages</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark"/><img src="https://img.shields.io/badge/SQL-05070B?style=flat-square&logo=postgresql&logoColor=00F5FF"/></td>
 </tr>
 <tr>
@@ -106,6 +107,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF,7C4DFF&height=50&section=header&text=Experience&fontSize=35&fontColor=7C4DFF&animation=fadeIn&fontAlignY=50"/>
 
