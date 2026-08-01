@@ -4,15 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/divya-name-glitch.svg" width="100%" alt="Divya Davane"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=680&height=55&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;ML+Engineer;Data+Analytics+Enthusiast;Building+AI+Products;Open+Source+Contributor;Always+Learning" alt="Typing SVG"/>
-
-<img src="https://github.com/divyadavane.png" width="130" height="130" style="border-radius:50%;"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=680&height=55&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=0:00F5FF,50:7C4DFF,100:4F8CFF&section=header"/>
 
-> **A note on the "hover" effects** — GitHub strips all CSS and JavaScript from README pages, so true cursor-based hover, tilt, and mouse-parallax simply cannot run on a profile page — no README anywhere gets around that, including the top-ranked ones. What *does* work, and what's used above, is a real animated SVG asset (`assets/divya-name-glitch.svg`) with RGB split, scanline sweep, breathing float, and a pulsing gradient outline running continuously via native SVG animation — the closest thing to "alive" that GitHub can actually render. Push the `assets/` folder to your `divyadavane/divyadavane` repo alongside this file for it to display.
 
 <br/>
 
@@ -21,21 +18,14 @@
 ## 🔗 Connect
 
 <p>
-<a href="https://linkedin.com/in/Divya-Davane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
 <a href="https://github.com/divyadavane"><img src="https://img.shields.io/badge/GitHub-05070B?style=for-the-badge&logo=github&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-05070B?style=for-the-badge&logo=readdotcv&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
 <a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
 </p>
 <p>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-05070B?style=for-the-badge&logo=leetcode&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-05070B?style=for-the-badge&logo=codechef&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-05070B?style=for-the-badge&logo=hackerrank&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-05070B?style=for-the-badge&logo=x&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-05070B?style=for-the-badge&logo=instagram&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-05070B?style=for-the-badge&logo=medium&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kaggle-05070B?style=for-the-badge&logo=kaggle&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-05070B?style=for-the-badge&logo=discord&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="https://leetcode.com/u/Divya_Davane/"><img src="https://img.shields.io/badge/LeetCode-05070B?style=for-the-badge&logo=leetcode&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="https://instagram.com/divyacado"><img src="https://img.shields.io/badge/Instagram-05070B?style=for-the-badge&logo=instagram&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
 </p>
 
 </div>
@@ -283,9 +273,8 @@ $ _
 <div align="center">
 
 <a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-05070B?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="https://linkedin.com/in/Divya-Davane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/View%20Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Download%20Resume-05070B?style=for-the-badge&logo=readdotcv&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
+<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
 
 </div>
 
