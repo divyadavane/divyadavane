@@ -224,18 +224,26 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyadavane&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=05070B&title_color=00F5FF&icon_color=7C4DFF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadavane&theme=github-dark-blue&hide_border=true&background=05070B&ring=00F5FF&fire=7C4DFF&currStreakLabel=00F5FF" width="49%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyadavane&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=05070B&title_color=00F5FF&icon_color=7C4DFF&text_color=c9d1d9" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadavane&theme=github-dark-blue&hide_border=true&background=05070B&ring=00F5FF&fire=7C4DFF&currStreakLabel=00F5FF" height="175"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadavane&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=05070B&title_color=00F5FF&text_color=c9d1d9" width="49%"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadavane&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=05070B&title_color=00F5FF&text_color=c9d1d9" height="175"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyadavane&theme=react-dark&bg_color=05070B&color=00F5FF&line=7C4DFF&point=4F8CFF&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyadavane&theme=react-dark&bg_color=05070B&color=00F5FF&line=7C4DFF&point=4F8CFF&hide_border=true" width="100%"/>
+</p>
 
-<a href="https://github.com/divyadavane"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdivyadavane&label=Profile%20Views&countColor=%2300F5FF&style=flat-square&labelStyle=none"/></a>
-<img src="https://img.shields.io/github/followers/divyadavane?style=flat-square&label=Followers&color=7C4DFF&labelColor=05070B"/>
-<img src="https://img.shields.io/github/stars/divyadavane?style=flat-square&label=Stars&color=4F8CFF&labelColor=05070B"/>
+<p align="center">
+  <a href="https://github.com/divyadavane"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdivyadavane&label=Profile%20Views&countColor=%2300F5FF&style=flat-square&labelStyle=none"/></a>
+  <img src="https://img.shields.io/github/followers/divyadavane?style=flat-square&label=Followers&color=7C4DFF&labelColor=05070B"/>
+  <img src="https://img.shields.io/github/stars/divyadavane?style=flat-square&label=Stars&color=4F8CFF&labelColor=05070B"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg">
