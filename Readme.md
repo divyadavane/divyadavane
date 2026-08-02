@@ -235,11 +235,15 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 <img src="https://img.shields.io/github/followers/divyadavane?style=flat-square&label=Followers&color=7C4DFF&labelColor=05070B"/>
 <img src="https://img.shields.io/github/stars/divyadavane?style=flat-square&label=Stars&color=4F8CFF&labelColor=05070B"/>
 
-</div>
+<br/><br/>
 
-> Snake contribution animation renders here once the [snk GitHub Action](https://github.com/Platane/snk) is added to this repo:
->
-> `<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg" width="100%"/>`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
 
 ## 🖥️ Currently Building
 
