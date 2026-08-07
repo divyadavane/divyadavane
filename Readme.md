@@ -68,41 +68,42 @@
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c,postgres&theme=dark" height="48"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark"/><img src="https://img.shields.io/badge/SQL-05070B?style=flat-square&logo=postgresql&logoColor=00F5FF"/></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark" height="48"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&theme=dark" height="48"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase&theme=dark" height="48"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Cloud</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,vercel&theme=dark" height="48"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,vercel&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/langchain.svg" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/openai.svg" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/huggingface.svg" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/pandas.svg" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/numpy.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-05070B?style=flat-square&logo=scikitlearn&logoColor=7C4DFF"/>
+<img src="https://img.shields.io/badge/LangChain-05070B?style=flat-square&logo=langchain&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/OpenAI-05070B?style=flat-square&logo=openai&logoColor=4F8CFF"/>
+<img src="https://img.shields.io/badge/HuggingFace-05070B?style=flat-square&logo=huggingface&logoColor=7C4DFF"/>
+<img src="https://img.shields.io/badge/Pandas-05070B?style=flat-square&logo=pandas&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/NumPy-05070B?style=flat-square&logo=numpy&logoColor=4F8CFF"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/powerbi.svg" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/icons/tableau.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+<img src="https://img.shields.io/badge/Power%20BI-05070B?style=flat-square&logo=powerbi&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Tableau-05070B?style=flat-square&logo=tableau&logoColor=7C4DFF"/>
 </td>
 </tr>
 </table>
