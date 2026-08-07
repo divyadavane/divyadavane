@@ -69,80 +69,80 @@
 <tr>
 <td align="center"><b>Languages</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/javascript-color.png" width="36" alt="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/typescript-color.png" width="36" alt="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/python-color.png" width="36" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/java-color.png" width="36" alt="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/c-color.png" width="36" alt="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postgresql-color.png" width="36" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" alt="SQL" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/react-color.png" width="36" alt="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/nextjs.png" width="36" alt="Next.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tailwindcss-color.png" width="36" alt="Tailwind CSS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/framer-color.png" width="36" alt="Framer" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/html5-color.png" width="36" alt="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/css3-color.png" width="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" width="36" alt="Framer" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" alt="CSS3" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/nodejs-color.png" width="36" alt="Node.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/express.png" width="36" alt="Express" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/fastapi-color.png" width="36" alt="FastAPI" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/deno.png" width="36" alt="Deno" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/django-color.png" width="36" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" alt="Express" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" width="36" alt="Deno" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" alt="Django" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/mongodb-color.png" width="36" alt="MongoDB" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postgresql-color.png" width="36" alt="PostgreSQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/mysql-color.png" width="36" alt="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/sqlite-color.png" width="36" alt="SQLite" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/firebase-color.png" width="36" alt="Firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/supabase-color.png" width="36" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" alt="SQLite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" alt="Firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="36" alt="Supabase" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Cloud</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/azure-color.png" width="36" alt="Azure" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/aws-color.png" width="36" alt="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/docker-color.png" width="36" alt="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/kubernetes-color.png" width="36" alt="Kubernetes" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/vercel.png" width="36" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="36" alt="Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" alt="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="36" alt="Vercel" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tensorflow-color.png" width="36" alt="TensorFlow" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/pytorch-color.png" width="36" alt="PyTorch" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/langchain-color.png" width="36" alt="LangChain" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/scikitlearn-color.png" width="36" alt="Scikit-learn" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/openai.png" width="36" alt="OpenAI" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/huggingface-color.png" width="36" alt="Hugging Face" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/pandas-color.png" width="36" alt="Pandas" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/numpy-color.png" width="36" alt="NumPy" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/claude-color.png" width="36" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" alt="TensorFlow" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" alt="PyTorch" />&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" alt="LangChain" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" alt="Scikit-learn" />&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="36" alt="OpenAI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" alt="Hugging Face" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" alt="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" alt="NumPy" />&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="36" alt="Claude" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/git-color.png" width="36" alt="Git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/github.png" width="36" alt="GitHub" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/vscode-color.png" width="36" alt="VS Code" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postman-color.png" width="36" alt="Postman" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/figma-color.png" width="36" alt="Figma" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/powerbi-color.png" width="36" alt="Power BI" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tableau-color.png" width="36" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" alt="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" alt="GitHub" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" alt="Postman" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" alt="Figma" />&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="36" alt="Power BI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="36" alt="Tableau" />
 </td>
 </tr>
 </table>
