@@ -68,42 +68,81 @@
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark"/><img src="https://img.shields.io/badge/SQL-05070B?style=flat-square&logo=postgresql&logoColor=00F5FF"/></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/javascript-color.png" width="36" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/typescript-color.png" width="36" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/python-color.png" width="36" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/java-color.png" width="36" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/c-color.png" width="36" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postgresql-color.png" width="36" alt="SQL" />
+</td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark"/></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/react-color.png" width="36" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/nextjs.png" width="36" alt="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tailwindcss-color.png" width="36" alt="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/framer-color.png" width="36" alt="Framer" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/html5-color.png" width="36" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/css3-color.png" width="36" alt="CSS3" />
+</td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&theme=dark"/></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/nodejs-color.png" width="36" alt="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/express.png" width="36" alt="Express" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/fastapi-color.png" width="36" alt="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/deno.png" width="36" alt="Deno" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/django-color.png" width="36" alt="Django" />
+</td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase&theme=dark"/></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/mongodb-color.png" width="36" alt="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postgresql-color.png" width="36" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/mysql-color.png" width="36" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/sqlite-color.png" width="36" alt="SQLite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/firebase-color.png" width="36" alt="Firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/supabase-color.png" width="36" alt="Supabase" />
+</td>
 </tr>
 <tr>
 <td align="center"><b>Cloud</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,vercel&theme=dark"/></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/azure-color.png" width="36" alt="Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/aws-color.png" width="36" alt="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/docker-color.png" width="36" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/kubernetes-color.png" width="36" alt="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/vercel.png" width="36" alt="Vercel" />
+</td>
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-05070B?style=flat-square&logo=scikitlearn&logoColor=7C4DFF"/>
-<img src="https://img.shields.io/badge/LangChain-05070B?style=flat-square&logo=langchain&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/OpenAI-05070B?style=flat-square&logo=openai&logoColor=4F8CFF"/>
-<img src="https://img.shields.io/badge/HuggingFace-05070B?style=flat-square&logo=huggingface&logoColor=7C4DFF"/>
-<img src="https://img.shields.io/badge/Pandas-05070B?style=flat-square&logo=pandas&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/NumPy-05070B?style=flat-square&logo=numpy&logoColor=4F8CFF"/>
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tensorflow-color.png" width="36" alt="TensorFlow" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/pytorch-color.png" width="36" alt="PyTorch" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/langchain-color.png" width="36" alt="LangChain" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/scikitlearn-color.png" width="36" alt="Scikit-learn" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/openai.png" width="36" alt="OpenAI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/huggingface-color.png" width="36" alt="Hugging Face" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/pandas-color.png" width="36" alt="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/numpy-color.png" width="36" alt="NumPy" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/claude-color.png" width="36" alt="Claude" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
-<img src="https://img.shields.io/badge/Power%20BI-05070B?style=flat-square&logo=powerbi&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Tableau-05070B?style=flat-square&logo=tableau&logoColor=7C4DFF"/>
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/git-color.png" width="36" alt="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/github.png" width="36" alt="GitHub" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/vscode-color.png" width="36" alt="VS Code" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postman-color.png" width="36" alt="Postman" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/figma-color.png" width="36" alt="Figma" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/powerbi-color.png" width="36" alt="Power BI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tableau-color.png" width="36" alt="Tableau" />
 </td>
 </tr>
 </table>
