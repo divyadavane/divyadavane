@@ -68,7 +68,7 @@
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark"/><img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=postgresql&logoColor=00F5FF&logoWidth=20"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c,postgres&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
@@ -88,22 +88,11 @@
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=langchain&logoColor=00F5FF&logoWidth=20"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=openai&logoColor=4F8CFF&logoWidth=20"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=huggingface&logoColor=7C4DFF&logoWidth=20"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=pandas&logoColor=00F5FF&logoWidth=20"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=numpy&logoColor=4F8CFF&logoWidth=20"/>
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=powerbi&logoColor=00F5FF&logoWidth=20"/>
-<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=tableau&logoColor=7C4DFF&logoWidth=20"/>
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/></td>
 </tr>
 </table>
 </div>
