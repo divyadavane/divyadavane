@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" alt="React" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" width="36" alt="Framer" />&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="36" alt="Framer" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" alt="HTML5" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" alt="CSS3" />
 </td>
@@ -141,8 +141,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" alt="Postman" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" alt="Figma" />&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="36" alt="Power BI" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="36" alt="Tableau" />
+  <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />&nbsp;
+  <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
 </td>
 </tr>
 </table>
