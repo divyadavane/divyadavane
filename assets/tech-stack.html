@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Stack</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0b0d12;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+    min-height: 100vh;
+  }
+
+  .card {
+    background: #12151c;
+    border: 1px solid #23262f;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 780px;
+    overflow: hidden;
+  }
+
+  /* ── Header ── */
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 18px 24px;
+    border-bottom: 1px solid #23262f;
+  }
+  .card-header .bolt {
+    font-size: 20px;
+    color: #ff6a3d;
+    line-height: 1;
+  }
+  .card-header h2 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #e6eaf0;
+    letter-spacing: .3px;
+  }
+
+  /* ── Rows ── */
+  .row {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #1a1d25;
+  }
+  .row:last-child { border-bottom: none; }
+
+  .row-label {
+    flex: 0 0 120px;
+    padding: 14px 18px;
+    text-align: right;
+    font-size: 13px;
+    font-weight: 600;
+    color: #9ca3b0;
+    border-right: 1px solid #23262f;
+    white-space: nowrap;
+  }
+
+  .row-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 14px 20px;
+  }
+
+  /* ── Badge ── */
+  .badge {
+    width: 40px;
+    height: 40px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform .15s ease, box-shadow .15s ease;
+  }
+  .badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0,0,0,.45);
+  }
+  .badge img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+  .badge img.invert { filter: invert(1); }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <!-- Header -->
+  <div class="card-header">
+    <span class="bolt">⚡</span>
+    <h2>Tech Stack</h2>
+  </div>
+
+  <!-- Languages -->
+  <div class="row">
+    <div class="row-label">Languages</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#2d2b1e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/javascript-color.png" alt="JavaScript"></div>
+      <div class="badge" style="background:#192744"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/typescript-color.png" alt="TypeScript"></div>
+      <div class="badge" style="background:#1e2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/python-color.png" alt="Python"></div>
+      <div class="badge" style="background:#2a1c1c"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/java-color.png" alt="Java"></div>
+      <div class="badge" style="background:#1c2240"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/c-color.png" alt="C"></div>
+      <div class="badge" style="background:#1c2240"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postgresql-color.png" alt="SQL"></div>
+    </div>
+  </div>
+
+  <!-- Frontend -->
+  <div class="row">
+    <div class="row-label">Frontend</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#1a2e3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/react-color.png" alt="React"></div>
+      <div class="badge" style="background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/nextjs.png" alt="Next.js" class="invert"></div>
+      <div class="badge" style="background:#172a30"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tailwindcss-color.png" alt="Tailwind CSS"></div>
+      <div class="badge" style="background:#1a1a2e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/framer-color.png" alt="Framer"></div>
+      <div class="badge" style="background:#2a1c10"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/html5-color.png" alt="HTML5"></div>
+      <div class="badge" style="background:#1a1a2e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/css3-color.png" alt="CSS3"></div>
+    </div>
+  </div>
+
+  <!-- Backend -->
+  <div class="row">
+    <div class="row-label">Backend</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#1a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/nodejs-color.png" alt="Node.js"></div>
+      <div class="badge" style="background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/express.png" alt="Express" class="invert"></div>
+      <div class="badge" style="background:#1a2a2a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/fastapi-color.png" alt="FastAPI"></div>
+      <div class="badge" style="background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/deno.png" alt="Deno" class="invert"></div>
+      <div class="badge" style="background:#1a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/django-color.png" alt="Django"></div>
+    </div>
+  </div>
+
+  <!-- Databases -->
+  <div class="row">
+    <div class="row-label">Databases</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#1a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/mongodb-color.png" alt="MongoDB"></div>
+      <div class="badge" style="background:#1c2240"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postgresql-color.png" alt="PostgreSQL"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/mysql-color.png" alt="MySQL"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/sqlite-color.png" alt="SQLite"></div>
+      <div class="badge" style="background:#2a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/firebase-color.png" alt="Firebase"></div>
+      <div class="badge" style="background:#1a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/supabase-color.png" alt="Supabase"></div>
+    </div>
+  </div>
+
+  <!-- Cloud -->
+  <div class="row">
+    <div class="row-label">Cloud</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#1a1e2e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/azure-color.png" alt="Azure"></div>
+      <div class="badge" style="background:#2a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/aws-color.png" alt="AWS"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/docker-color.png" alt="Docker"></div>
+      <div class="badge" style="background:#1a1e2e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/kubernetes-color.png" alt="Kubernetes"></div>
+      <div class="badge" style="background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/vercel.png" alt="Vercel" class="invert"></div>
+    </div>
+  </div>
+
+  <!-- AI / ML -->
+  <div class="row">
+    <div class="row-label">AI / ML</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#2a1c10"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tensorflow-color.png" alt="TensorFlow"></div>
+      <div class="badge" style="background:#2a1c1c"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/pytorch-color.png" alt="PyTorch"></div>
+      <div class="badge" style="background:#1a2a2a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/langchain-color.png" alt="LangChain"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/scikitlearn-color.png" alt="Scikit-learn"></div>
+      <div class="badge" style="background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/openai.png" alt="OpenAI" class="invert"></div>
+      <div class="badge" style="background:#2a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/huggingface-color.png" alt="Hugging Face"></div>
+      <div class="badge" style="background:#1a1a2e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/pandas-color.png" alt="Pandas"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/numpy-color.png" alt="NumPy"></div>
+      <div class="badge" style="background:#2a1c10"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/claude-color.png" alt="Claude"></div>
+    </div>
+  </div>
+
+  <!-- Tools -->
+  <div class="row">
+    <div class="row-label">Tools</div>
+    <div class="row-icons">
+      <div class="badge" style="background:#2a1c10"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/git-color.png" alt="Git"></div>
+      <div class="badge" style="background:#1a1a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/github.png" alt="GitHub" class="invert"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/vscode-color.png" alt="VS Code"></div>
+      <div class="badge" style="background:#2a1c10"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/postman-color.png" alt="Postman"></div>
+      <div class="badge" style="background:#1a1a2e"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/figma-color.png" alt="Figma"></div>
+      <div class="badge" style="background:#2a2a1a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/powerbi-color.png" alt="Power BI"></div>
+      <div class="badge" style="background:#1a2a3a"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-png/light/tableau-color.png" alt="Tableau"></div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
