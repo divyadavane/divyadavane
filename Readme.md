@@ -68,7 +68,7 @@
 <table>
 <tr>
 <td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark"/><img src="https://img.shields.io/badge/SQL-05070B?style=flat-square&logo=postgresql&logoColor=00F5FF"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,py,java,c&theme=dark"/><img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=postgresql&logoColor=00F5FF&logoWidth=20"/></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
@@ -89,21 +89,20 @@
 <tr>
 <td align="center"><b>AI / ML</b></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-05070B?style=flat-square&logo=scikitlearn&logoColor=7C4DFF"/>
-<img src="https://img.shields.io/badge/LangChain-05070B?style=flat-square&logo=langchain&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/OpenAI-05070B?style=flat-square&logo=openai&logoColor=4F8CFF"/>
-<img src="https://img.shields.io/badge/HuggingFace-05070B?style=flat-square&logo=huggingface&logoColor=7C4DFF"/>
-<img src="https://img.shields.io/badge/Pandas-05070B?style=flat-square&logo=pandas&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/NumPy-05070B?style=flat-square&logo=numpy&logoColor=4F8CFF"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=langchain&logoColor=00F5FF&logoWidth=20"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=openai&logoColor=4F8CFF&logoWidth=20"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=huggingface&logoColor=7C4DFF&logoWidth=20"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=pandas&logoColor=00F5FF&logoWidth=20"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=numpy&logoColor=4F8CFF&logoWidth=20"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
-<img src="https://img.shields.io/badge/Power%20BI-05070B?style=flat-square&logo=powerbi&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Tableau-05070B?style=flat-square&logo=tableau&logoColor=7C4DFF"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=powerbi&logoColor=00F5FF&logoWidth=20"/>
+<img src="https://img.shields.io/badge/-05070B?style=flat-square&logo=tableau&logoColor=7C4DFF&logoWidth=20"/>
 </td>
 </tr>
 </table>
