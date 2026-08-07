@@ -88,11 +88,22 @@
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="48"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=pandas&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
+</td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=powerbi&logoColor=F2C811" height="48"/>
+<img src="https://img.shields.io/badge/-1C1C1C?style=for-the-badge&logo=tableau&logoColor=E97627" height="48"/>
+</td>
 </tr>
 </table>
 </div>
