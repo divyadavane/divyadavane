@@ -290,6 +290,12 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/divyadavane/divyadavane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
+</p>
+
 </div>
 
 ## 🖥️ Currently Building
