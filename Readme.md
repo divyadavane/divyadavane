@@ -298,40 +298,42 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 </div>
 
-## 🖥️ Currently Building
-
-```bash
-$ whoami
-> Divya Davane
-
-$ status --current
-> Building AI products
-> Learning Agentic AI
-> Exploring LangGraph
-> Building full stack apps
-
-$ _
-```
-
-## ☕ Fun Facts
-
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-| ☕ Coffee | ⏱️ Coding | 💡 Fun fact |
-|---|---|---|
-| Fueled by chai, not just coffee | Most productive after midnight | Once trained a model to render thoughts into images |
-
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/header_building.svg" width="600" alt="Currently Building"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=00fff5,7b2ff7" width="400"/>
 </div>
 
-## 📬 Let's Build Something Amazing Together
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/terminal.svg" width="100%" alt="Terminal"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/header_facts.svg" width="600" alt="Fun Facts"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=7b2ff7,00fff5" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/quote.svg" width="100%" alt="Quote"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/table.svg" width="100%" alt="Fun Facts Table"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/header_lets_build.svg" width="800" alt="Let's Build"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=ff4dd8,00fff5" width="600"/>
+</div>
 
 <div align="center">
 
-<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-05070B?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=7C4DFF&labelColor=05070B&color=161B22"/></a>
-<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
+<br/>
+
+<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0a0a12?style=flat&logo=gmail&logoColor=00fff5&labelColor=0a0a12&color=00fff5"/></a>
+<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a0a12?style=flat&logo=linkedin&logoColor=4361ee&labelColor=0a0a12&color=4361ee"/></a>
+<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0a0a12?style=flat&logo=vercel&logoColor=7b2ff7&labelColor=0a0a12&color=7b2ff7"/></a>
 
 </div>
 
