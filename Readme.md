@@ -331,9 +331,9 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 <br/>
 
-<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0d1117?style=flat&logo=gmail&logoColor=00cccc&labelColor=0d1117&color=3a3a4a"/></a>
-<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=4361ee&labelColor=0d1117&color=3a3a4a"/></a>
-<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=flat&logo=vercel&logoColor=7b2ff7&labelColor=0d1117&color=3a3a4a"/></a>
+<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
 
 </div>
 
