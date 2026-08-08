@@ -328,21 +328,15 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 </p>
 
 <div align="center">
+  <p>
+    <a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+    <a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
+    <a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
+  </p>
 
-<br/>
+  <p>
+    <i>"Code. Create. Innovate."</i>
+  </p>
 
-<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email-05070B?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/LinkedIn-05070B?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=05070B&color=161B22"/></a>
-<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-05070B?style=for-the-badge&logo=vercel&logoColor=4F8CFF&labelColor=05070B&color=161B22"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Code. Create. Innovate."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:05070B,50:7C4DFF,100:00F5FF&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:05070B,50:7C4DFF,100:00F5FF&section=footer"/>
 </div>
