@@ -1,12 +1,18 @@
 [
   {
-    "type": "standard",
-    "target": "profile-custom.svg",
+    "type": "normal",
+    "fileName": "profile-customize.svg",
     "backgroundColor": "#05070B",
-    "color0": "#161B22",
-    "color1": "#00F5FF",
-    "color2": "#4F8CFF",
-    "color3": "#7C4DFF",
-    "color4": "#c9d1d9"
+    "foregroundColor": "#c9d1d9",
+    "strongColor": "#00F5FF",
+    "weakColor": "#7C4DFF",
+    "radarColor": "#4F8CFF",
+    "contribColors": [
+      "#161B22",
+      "#00F5FF",
+      "#4F8CFF",
+      "#7C4DFF",
+      "#c9d1d9"
+    ]
   }
 ]
