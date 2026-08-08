@@ -7,6 +7,23 @@
     "strongColor": "#00F5FF",
     "weakColor": "#7C4DFF",
     "radarColor": "#4F8CFF",
+    "growingAnimation": false,
+    "contribColors": [
+      "#161B22",
+      "#00F5FF",
+      "#4F8CFF",
+      "#7C4DFF",
+      "#c9d1d9"
+    ]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-customize-animate.svg",
+    "backgroundColor": "#05070B",
+    "foregroundColor": "#c9d1d9",
+    "strongColor": "#00F5FF",
+    "weakColor": "#7C4DFF",
+    "radarColor": "#4F8CFF",
     "growingAnimation": true,
     "contribColors": [
       "#161B22",
