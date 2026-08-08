@@ -293,7 +293,7 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contributions"/>
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/profile-3d-contrib/profile-customize.svg" width="100%" alt="3D GitHub Contributions"/>
 </p>
 
 </div>
