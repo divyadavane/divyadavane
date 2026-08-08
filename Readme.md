@@ -81,7 +81,7 @@
 <td align="center"><b>Frontend</b></td>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" alt="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" alt="Next.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" />&nbsp;
   <img src="https://cdn.simpleicons.org/framer/0055FF" width="36" alt="Framer" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" alt="HTML5" />&nbsp;
@@ -92,10 +92,10 @@
 <td align="center"><b>Backend</b></td>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" alt="Express" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/white" width="36" alt="Express" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" width="36" alt="Deno" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" alt="Django" />
+  <img src="https://cdn.simpleicons.org/deno/white" width="36" alt="Deno" />&nbsp;
+  <img src="https://cdn.simpleicons.org/django/white" width="36" alt="Django" />
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" alt="AWS" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" alt="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="36" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/vercel/white" width="36" alt="Vercel" />
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" alt="PyTorch" />&nbsp;
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" alt="LangChain" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" alt="Scikit-learn" />&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="36" alt="OpenAI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/white" width="36" alt="OpenAI" />&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" alt="Hugging Face" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" alt="Pandas" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" alt="NumPy" />&nbsp;
@@ -137,7 +137,7 @@
 <td align="center"><b>Tools</b></td>
 <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" alt="Git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" alt="GitHub" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/white" width="36" alt="GitHub" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" alt="Postman" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" alt="Figma" />&nbsp;
