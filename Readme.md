@@ -298,10 +298,10 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/header_building.svg" width="600" alt="Currently Building"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=00fff5,7b2ff7" width="400"/>
-</div>
+<h2 align="center">🖥️ Currently Building</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=3a3a4a" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/terminal.svg" width="100%" alt="Terminal"/>
@@ -309,10 +309,10 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/header_facts.svg" width="600" alt="Fun Facts"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=7b2ff7,00fff5" width="400"/>
-</div>
+<h2 align="center">☕ Fun Facts</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=3a3a4a" width="400"/>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/quote.svg" width="100%" alt="Quote"/>
@@ -322,18 +322,18 @@ Banking platform supporting multi-account aggregation and real-time fund transfe
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/header_lets_build.svg" width="800" alt="Let's Build"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=ff4dd8,00fff5" width="600"/>
-</div>
+<h2 align="center">📬 Let's Build Something Amazing Together</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=3a3a4a" width="600"/>
+</p>
 
 <div align="center">
 
 <br/>
 
-<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0a0a12?style=flat&logo=gmail&logoColor=00fff5&labelColor=0a0a12&color=00fff5"/></a>
-<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a0a12?style=flat&logo=linkedin&logoColor=4361ee&labelColor=0a0a12&color=4361ee"/></a>
-<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0a0a12?style=flat&logo=vercel&logoColor=7b2ff7&labelColor=0a0a12&color=7b2ff7"/></a>
+<a href="mailto:divyadavane0@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0d1117?style=flat&logo=gmail&logoColor=00cccc&labelColor=0d1117&color=3a3a4a"/></a>
+<a href="https://www.linkedin.com/in/divyadavane"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=4361ee&labelColor=0d1117&color=3a3a4a"/></a>
+<a href="https://divyadavaneportfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=flat&logo=vercel&logoColor=7b2ff7&labelColor=0d1117&color=3a3a4a"/></a>
 
 </div>
 
