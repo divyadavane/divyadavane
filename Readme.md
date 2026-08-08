@@ -69,78 +69,78 @@
 <tr>
 <td align="center"><b>Languages</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" alt="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" alt="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="64" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" alt="SQL" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" alt="React" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" alt="Next.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" />&nbsp;
-  <img src="https://cdn.simpleicons.org/framer/0055FF" width="36" alt="Framer" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" alt="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" alt="React" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="64" alt="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64" alt="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="64" alt="Framer" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="64" alt="CSS3" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />&nbsp;
-  <img src="https://cdn.simpleicons.org/express/white" width="36" alt="Express" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI" />&nbsp;
-  <img src="https://cdn.simpleicons.org/deno/white" width="36" alt="Deno" />&nbsp;
-  <img src="https://cdn.simpleicons.org/django/white" width="36" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="64" alt="Node.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/ffffff" width="64" alt="Express" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="64" alt="FastAPI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/deno/ffffff" width="64" alt="Deno" />&nbsp;
+  <img src="https://cdn.simpleicons.org/django/ffffff" width="64" alt="Django" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" alt="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" alt="SQLite" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" alt="Firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="36" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="64" alt="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="64" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="64" alt="SQLite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="64" alt="Firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="64" alt="Supabase" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Cloud</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="36" alt="Azure" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" alt="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" alt="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/white" width="36" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="64" alt="Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" alt="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="64" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="64" alt="Kubernetes" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="64" alt="Vercel" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>AI / ML</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="36" alt="TensorFlow" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="36" alt="PyTorch" />&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" alt="LangChain" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="36" alt="Scikit-learn" />&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/white" width="36" alt="OpenAI" />&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" alt="Hugging Face" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="36" alt="Pandas" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="36" alt="NumPy" />&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="36" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="64" alt="TensorFlow" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="64" alt="PyTorch" />&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="64" alt="LangChain" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="64" alt="Scikit-learn" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="64" alt="OpenAI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="64" alt="Hugging Face" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="64" alt="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="64" alt="NumPy" />&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="64" alt="Claude" />
 </td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" alt="Git" />&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" width="36" alt="GitHub" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" alt="Postman" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" alt="Figma" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="64" alt="Git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="64" alt="GitHub" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" alt="VS Code" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="64" alt="Postman" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="64" alt="Figma" />&nbsp;
   <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />&nbsp;
   <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
 </td>
