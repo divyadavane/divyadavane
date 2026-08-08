@@ -1,0 +1,12 @@
+[
+  {
+    "type": "standard",
+    "target": "profile-custom.svg",
+    "backgroundColor": "#05070B",
+    "color0": "#161B22",
+    "color1": "#00F5FF",
+    "color2": "#4F8CFF",
+    "color3": "#7C4DFF",
+    "color4": "#c9d1d9"
+  }
+]
