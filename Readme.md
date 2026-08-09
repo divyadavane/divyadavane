@@ -29,37 +29,12 @@
 
 ## 👋 About Me
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1a1a2e" width="500"/>
+</p>
+
 <div align="center">
-<table>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🎓%20Education-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Software engineering student — AI & Data Science, CGPA 9.1/10</b></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🧩%20Focus-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Building AI products, end to end</b></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/💻%20Stack-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Love full stack development</b></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🤖%20Domain-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Love machine learning</b></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🌱%20Community-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Love open source</b></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/🚀%20Goal-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Building scalable software</b></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="https://img.shields.io/badge/📚%20Mantra-05070B?style=for-the-badge&color=161B22"/></td>
-    <td><b>Learning every day</b></td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/divyadavane/divyadavane/main/assets/about-me.svg" width="100%" alt="About Me"/>
 </div>
 
 ## ⚡ Tech Stack

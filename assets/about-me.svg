@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 510" width="100%">
+  <defs>
+    <!-- Soft drop shadow for cards -->
+    <filter id="cs" x="-3%" y="-10%" width="106%" height="130%">
+      <feDropShadow dx="0" dy="2.5" stdDeviation="3.5" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+
+    <!-- Slightly deeper shadow for alternate cards - subtle lift -->
+    <filter id="csd" x="-3%" y="-12%" width="106%" height="135%">
+      <feDropShadow dx="0" dy="3.5" stdDeviation="5" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+
+    <!-- Embossed badge effect -->
+    <filter id="be" x="-3%" y="-10%" width="106%" height="130%">
+      <feDropShadow dx="0" dy="0.6" stdDeviation="0.6" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <!-- Badge background gradients (embossed look) -->
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1c1c2c"/>
+      <stop offset="100%" stop-color="#111119"/>
+    </linearGradient>
+
+    <!-- Subtle underline for header -->
+    <linearGradient id="ul" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="15%" stop-color="#22222e"/>
+      <stop offset="50%" stop-color="#33334a"/>
+      <stop offset="85%" stop-color="#22222e"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+
+    <style>
+      .card {
+        fill: #12121c;
+        rx: 9;
+        ry: 9;
+      }
+      .badge {
+        fill: url(#bg1);
+        rx: 5;
+        ry: 5;
+        filter: url(#be);
+      }
+      .icon {
+        font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+        font-size: 14px;
+      }
+      .label {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+        font-size: 9.5px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+      }
+      .val {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+        font-size: 13.5px;
+        font-weight: 600;
+        fill: #c8c8dc;
+      }
+      .ac { fill: #5ec4d4; }
+      .ap { fill: #9b7adf; }
+      .ab { fill: #6a9eff; }
+      .lc { fill: #4a8a96; }
+      .lp { fill: #7a62b0; }
+      .lb { fill: #5580cc; }
+    </style>
+  </defs>
+
+  <!-- Row 1: Education -->
+  <g filter="url(#cs)">
+    <rect class="card" x="24" y="8" width="712" height="56"/>
+    <rect class="badge" x="38" y="21" width="120" height="30"/>
+    <text class="icon" x="50" y="41">🎓</text>
+    <text class="label lc" x="70" y="40">EDUCATION</text>
+    <text class="val" x="176" y="41">Software engineering student — AI &amp; Data Science, CGPA 9.1/10</text>
+  </g>
+
+  <!-- Row 2: Focus -->
+  <g filter="url(#csd)">
+    <rect class="card" x="24" y="76" width="712" height="56"/>
+    <rect class="badge" x="38" y="89" width="96" height="30"/>
+    <text class="icon" x="50" y="109">🧩</text>
+    <text class="val" x="152" y="109">Building AI products, end to end</text>
+    <text class="label lp" x="70" y="108">FOCUS</text>
+  </g>
+
+  <!-- Row 3: Stack -->
+  <g filter="url(#cs)">
+    <rect class="card" x="24" y="144" width="712" height="56"/>
+    <rect class="badge" x="38" y="157" width="96" height="30"/>
+    <text class="icon" x="50" y="177">💻</text>
+    <text class="label lb" x="70" y="176">STACK</text>
+    <text class="val" x="152" y="177">Love full stack development</text>
+  </g>
+
+  <!-- Row 4: Domain -->
+  <g filter="url(#csd)">
+    <rect class="card" x="24" y="212" width="712" height="56"/>
+    <rect class="badge" x="38" y="225" width="106" height="30"/>
+    <text class="icon" x="50" y="245">🤖</text>
+    <text class="label lc" x="70" y="244">DOMAIN</text>
+    <text class="val" x="162" y="245">Love machine learning</text>
+  </g>
+
+  <!-- Row 5: Community -->
+  <g filter="url(#csd)">
+    <rect class="card" x="24" y="280" width="712" height="56"/>
+    <rect class="badge" x="38" y="293" width="126" height="30"/>
+    <text class="icon" x="50" y="313">🌱</text>
+    <text class="label lp" x="70" y="312">COMMUNITY</text>
+    <text class="val" x="182" y="313">Love open source</text>
+  </g>
+
+  <!-- Row 6: Goal -->
+  <g filter="url(#cs)">
+    <rect class="card" x="24" y="348" width="712" height="56"/>
+    <rect class="badge" x="38" y="361" width="86" height="30"/>
+    <text class="icon" x="50" y="381">🚀</text>
+    <text class="label lb" x="70" y="380">GOAL</text>
+    <text class="val" x="142" y="381">Building scalable software</text>
+  </g>
+
+  <!-- Row 7: Mantra -->
+  <g filter="url(#csd)">
+    <rect class="card" x="24" y="416" width="712" height="56"/>
+    <rect class="badge" x="38" y="429" width="108" height="30"/>
+    <text class="icon" x="50" y="449">📚</text>
+    <text class="label lc" x="70" y="448">MANTRA</text>
+    <text class="val" x="164" y="449">Learning every day</text>
+  </g>
+
+</svg>
